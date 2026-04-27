@@ -12,5 +12,6 @@ GTokenTool是全网最强一键发币工具,支持BSC、Solana、Base、ton、ET
 **Sui一键发币**：https://sui.gtokentool.com
 
 **波场工具助手**：https://tron.gtokentool.com
+**代币批量转账**: https://docs.gtokentool.com/kuai-jie-gong-ju/batch-transfer
 
 **交流群**: https://t.me/gtokentool
